@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# drugstor.com
 
 This project was bootstrapped with [Create React App](https://drugstor-b68d5.web.app/home).
 
