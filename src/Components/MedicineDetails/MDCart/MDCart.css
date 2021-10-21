@@ -2,25 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
-/* .img-box{
-    position: relative;
-    width: 100%;
-    height: 300px;
-    background-color: rgb(233, 233, 233);
-    border-radius: 20px;
-}
-.img-box img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-} */
-
-
-
 .cartimgbox{
     position: relative;
     width: 100%;
@@ -48,4 +29,15 @@
 }
 .single-text-box h1, p h3 {
     margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .single-cart{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .single-text-box{
+        padding: 20px;
+    }
+    
 }

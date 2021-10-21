@@ -1,20 +1,11 @@
-.content{
-    display: flex;
-    justify-content: center;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
-    margin-top: 40px;
-    font-family: 'Poppins', sans-serif;
-}
+
 .box{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 340px;
+    width: 300px;
     margin: 20px;
     border: 15px solid #fff;
     box-shadow: 0 5px 35px rgba(0,0,0,0.08);
     border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
 }
 .img-box{
     position: relative;
@@ -50,4 +41,7 @@
     border-radius: 10px;
     font-weight: bold;
     border: 1px solid rgb(112, 112, 112);
+}
+.scard{
+    padding: 0;
 }

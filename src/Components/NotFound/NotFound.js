@@ -4,7 +4,7 @@ import './NotFound.css'
 
 const NotFound = () => {
     return (
-        <div className="main">
+        <div className="maine">
             <div >
                 <img src={notFound} alt="" />
             </div>

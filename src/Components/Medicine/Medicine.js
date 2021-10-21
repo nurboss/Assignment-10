@@ -10,7 +10,7 @@ const Medicine = () => {
         .then(medicine => setMedicine(medicine))
     },[])
     return (
-        <div className="main">
+        <div className="container mt-5 pb-5">
             <div className="row">
             {
                 medicines.map(data => <MedicineCart 
