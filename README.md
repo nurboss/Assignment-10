@@ -4,7 +4,12 @@ This project was bootstrapped with [Create React App](https://drugstor-b68d5.web
 
 ## Available Scripts
 
-In the project directory, you can run:
+# In this react Project a used bootrstrap and css.
+# I have include Private router in this porject.
+# I also use the useLocation hook in this project.
+# This web site is completely mobile reposnsive.
+# I use google and github logo in the sing in button.
+# I have also inclue more detais option in the card if you click the detais button that will take you in new router with more informetion about the product.
 
 ### `npm start`
 
