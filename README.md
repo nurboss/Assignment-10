@@ -4,13 +4,10 @@ This project was bootstrapped with [Create React App](https://drugstor-b68d5.web
 
 ## Available Scripts
 
-# This web site is a medecine selling web site, you can buy medicine from this web site.
-# I have include Private router in this porject.
-# I also use the useLocation hook in this project.
+# DrugStore is a React app to buy Medicins.
+# Fully Mobile responsive with Firebase Authentication System, with dynamic Routing system.
+# Users have to sign in to See all the Services.
 # This web site is completely mobile reposnsive.
-# I use google and github logo in the sing in button.
-# I have also inclue more detais option in the card if you click the detais button that will take you in new router with more informetion about the product.
-# I also use the custom hook useAuth in this web site.
 
 ### `npm start`
 
